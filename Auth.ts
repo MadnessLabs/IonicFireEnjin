@@ -35,6 +35,7 @@ module <%= enjin.name %> {
             this.enjin.auth = {
                 instance: this.$firebaseAuth(),
                 login: this.social.bind(this),
+                logout: this.logout.bind(this),
                 setSession: this.restoreSession.bind(this),
                 firebase: this.firebase.bind(this)
             };
