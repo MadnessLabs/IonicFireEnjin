@@ -1,3 +1,4 @@
+/// <reference path="../../typings/index.d.ts"/>
 module <%= enjin.name %> {
     class AuthService {
         pause: boolean;
