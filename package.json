@@ -1,0 +1,28 @@
+{
+  "name": "ionicfireenjin",
+  "version": "1.0.0",
+  "description": "A set of tools to make working with firebase and ionic auth easier when utilizing the enjin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madnesslabs/ionicfireenjin.git"
+  },
+  "keywords": [
+    "firebase",
+    "enjin",
+    "madness",
+    "labs",
+    "ionic",
+    "madness",
+    "enjin"
+  ],
+  "author": "Madness Labs <info@madnesslabs.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madnesslabs/ionicfireenjin/issues"
+  },
+  "homepage": "https://github.com/madnesslabs/ionicfireenjin#readme"
+}
